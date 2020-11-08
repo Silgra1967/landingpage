@@ -1,0 +1,37 @@
+body{
+    background-color:#FFF9A2;
+}
+.textoGrande{
+    color:#FFF9A2;
+    font-size: 8rem;
+    text-align: left;
+}
+.titulos{
+    color:#E66C35;
+    text-align: left;
+}
+.textoparrafo{
+    line-height: 35px;
+    font-size: 30px;
+}
+p{
+    text-align: justify;
+}
+.imgRedonda {
+    width:298px;
+    height:298px;
+    border-radius:149px;
+}
+.centrartexto{
+    margin: auto;
+    display: block;
+}
+.fondotarjetas{
+    background-color: #70FE3A;
+}
+.fondoequipo{
+    background-color: #C347FC;
+}
+.colorboton{
+    background-color: #35B8E6;
+}
